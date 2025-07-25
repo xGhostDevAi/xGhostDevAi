@@ -40,11 +40,11 @@
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostDevAi&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xGhostDevAi&theme=radical&hide_border=true&background=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhostDevAi&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xGhostDevAi&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" alt="GitHub Stats" />
 </div>
 
 ## <div align="center">🎯 Current Focus</div>
